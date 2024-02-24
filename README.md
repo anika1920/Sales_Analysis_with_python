@@ -2,14 +2,14 @@
 In today's data-driven world, understanding customer behavior is paramount for businesses to tailor their strategies effectively. Leveraging the power of Python programming, I recently embarked on a project aimed at uncovering valuable insights from sales data.
 
 ## 🔍 Objective:
-  -Calculate total revenue & average order value.
-  -Determine the best-selling month.
-  -Explore day-of-week vs. sales volume correlation.
-  -Identify city with highest order frequency.
-  -Pinpoint busiest time of day.
-  -Analyze top-selling product & reasons.
-  -Discover frequently purchased product pairs.
-  -Understand trend of most sold product.
+  -Calculate total revenue & average order value. 
+  -Determine the best-selling month. 
+  -Explore day-of-week vs. sales volume correlation. 
+  -Identify city with highest order frequency. 
+  -Pinpoint busiest time of day. 
+  -Analyze top-selling product & reasons. 
+  -Discover frequently purchased product pairs. 
+  -Understand trend of most sold product. 
 
 ## 💡Key Findings:
 	
